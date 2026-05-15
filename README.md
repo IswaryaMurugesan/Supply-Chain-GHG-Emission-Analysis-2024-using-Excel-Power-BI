@@ -1,31 +1,99 @@
-# Supply Chain GHG Emission Analysis 2024
+# 🌍 Supply Chain Greenhouse Gas Emission Factor Analysis – 2024
 
-A comprehensive analysis of supply chain greenhouse gas emissions with industry-wise environmental impact visualization using Excel and Power BI.
+## 📌 Project Overview
+This project focuses on analyzing supply chain greenhouse gas emission factors across different industries using environmental sustainability data. The analysis was performed using Excel and Power BI to identify high-emission industries, compare emission intensity across sectors, and generate data-driven environmental insights through interactive dashboards and KPI analysis.
 
-## 📋 Overview
+---
 
-This project provides an in-depth analysis of greenhouse gas (GHG) emissions across supply chain operations in 2024. It combines data processing in Excel with interactive visualizations in Power BI to identify emission hotspots and industry-specific environmental impact patterns.
+## 🎯 Objectives
+✔ Analyze overall greenhouse gas emission performance across industries  
+✔ Identify industries with the highest emission margins  
+✔ Categorize industries into High, Medium, and Low emission groups  
+✔ Compare industry margins with emission contribution  
+✔ Analyze the relationship between margins and emission levels  
+✔ Identify industry-wise emission contribution percentages using visual analytics  
 
-## 🎯 Project Objectives
+---
 
-- Analyze GHG emissions across different supply chain segments
-- Identify industry-wise environmental impact
-- Visualize emission trends and patterns
-- Support data-driven sustainability decisions
-- Enable stakeholder reporting on carbon footprint
+## 📂 Dataset Information
+| Category | Details |
+|----------|----------|
+| Dataset Source | Data.gov |
+| Domain | Supply Chain & Environmental Sustainability |
+| Timeline | 2024 |
+| Rows | 1,016 |
+| Columns | 8 |
 
-## 📊 Key Features
+---
 
-- **Supply Chain Segmentation**: Analysis across different supply chain components (transportation, production, warehousing, etc.)
-- **Industry-Wise Breakdown**: Comparative analysis of emissions by industry sector
-- **Interactive Dashboards**: Power BI visualizations for easy exploration and insights
-- **Trend Analysis**: Year-over-year and temporal emission patterns
-- **Data Aggregation**: Consolidated metrics from multiple data sources
+## 🛠 Tools & Technologies Used
+- 📊 Power BI  
+- 📑 Microsoft Excel  
+- 📈 DAX Functions  
+- 🧹 Data Cleaning  
+- 📉 Data Visualization  
 
-## 🛠️ Tools & Technologies
+---
 
-- **Microsoft Excel**: Data cleaning, preparation, and initial analysis
-- **Power BI**: Interactive visualizations and dashboard creation
-- **Data Analytics**: Statistical analysis and trend identification
+## 🔄 Data Preprocessing
+The following preprocessing steps were performed:
 
-## 📁 Repository Structure
+✔ Removed duplicate records  
+✔ Corrected inconsistent data types  
+✔ Renamed columns for better readability  
+✔ Filtered invalid records  
+✔ Categorized emission levels into High, Medium, and Low groups  
+✔ Checked for outliers and abnormal emission values  
+
+---
+
+## ⚙ Data Transformation
+- Created calculated columns  
+- Generated KPI measures  
+- Categorized industries based on emission intensity  
+- Applied statistical analysis measures  
+- Developed Pivot Tables for industry-wise analysis  
+
+---
+
+## 📊 Dashboard Features
+✨ KPI Cards  
+✨ Bar Charts  
+✨ Column Charts  
+✨ Pie Charts  
+✨ Scatter Plots  
+✨ Matrix Visuals  
+✨ Interactive Filters & Slicers  
+✨ Drill-down Analysis  
+
+---
+
+## 📌 Key Insights
+📍 Cement Manufacturing recorded the highest emission margin of **3.924**  
+
+📍 Low Emission industries dominated with **875 industries (86.12%)**  
+
+📍 High Emission industries accounted for only **11 industries (1.08%)**  
+
+📍 Manufacturing and livestock-related industries contributed significantly to greenhouse gas emissions  
+
+📍 Sustainable operational practices can help reduce emission impact by **10–15%**  
+
+---
+
+# 📷 Dashboard Preview
+
+<img width="1000" alt="Dashboard Preview" src="https://github.com/IswaryaMurugesan/Supply-Chain-GHG-Emission-Analysis-2024-using-Excel-Power-BI/blob/main/Dashboard.png?raw=true">
+
+---
+
+## ✅ Conclusion
+The project successfully analyzed greenhouse gas emission factors across industries using Power BI dashboards and environmental sustainability data. The analysis identified key emission patterns, industry-wise contribution levels, and high-polluting sectors. Data-driven insights helped recommend sustainable operational strategies and environmental improvement measures.
+
+---
+
+# 👩‍💻 Author
+## Iswarya Murugesan
+
+🔗 GitHub Profile:  
+https://github.com/IswaryaMurugesan
