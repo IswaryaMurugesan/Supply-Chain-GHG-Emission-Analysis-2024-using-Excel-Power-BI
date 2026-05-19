@@ -67,6 +67,11 @@ The following preprocessing steps were performed:
 ✨ Drill-down Analysis  
 
 ---
+# 📷 Dashboard Preview
+
+<img width="1000" alt="Dashboard Preview" src="https://github.com/IswaryaMurugesan/Supply-Chain-GHG-Emission-Analysis-2024-using-Excel-Power-BI/blob/main/Dashboard.png?raw=true">
+
+---
 
 ## 📌 Key Insights
 📍 Cement Manufacturing recorded the highest emission margin of **3.924**  
@@ -78,12 +83,6 @@ The following preprocessing steps were performed:
 📍 Manufacturing and livestock-related industries contributed significantly to greenhouse gas emissions  
 
 📍 Sustainable operational practices can help reduce emission impact by **10–15%**  
-
----
-
-# 📷 Dashboard Preview
-
-<img width="1000" alt="Dashboard Preview" src="https://github.com/IswaryaMurugesan/Supply-Chain-GHG-Emission-Analysis-2024-using-Excel-Power-BI/blob/main/Dashboard.png?raw=true">
 
 ---
 
